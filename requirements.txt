@@ -1,0 +1,8 @@
+pandas
+numpy
+notebook
+matplotlib
+requests
+bs4
+urllib
+unidecode
